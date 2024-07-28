@@ -8,8 +8,38 @@ hr {
     position: relative;
 }
 
-.titulo{
+.titulo {
     position: relative;
     color: rgb(255, 0, 170);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rg {
+    position: relative;
+    left: 140px;
+}
+
+.confirmaremail {
+    position: relative;
+    left: 125px;
+}
+
+.senha {
+    position: relative;
+    left: 175px;
+}
+
+.confirmarsenha {
+    position: relative;
+    left: 300px;
+}
+
+.sobrenome {
+    position: relative;
+    left: 125px;
+}
+
+.genero {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
 }
