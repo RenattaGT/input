@@ -14,9 +14,30 @@ hr {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.dadosdelogin {
+    background-color: rgb(232, 203, 255);
+    width: 350px;
+}
+
+.dadosdelogintitulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 0, 170);
+    font-size: large;
+}
+
 .rg {
     position: relative;
     left: 140px;
+}
+
+.dadosdecontato {
+    background-color: rgb(232, 203, 255);
+}
+
+.dadosdecontatotitulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 0, 170);
+    font-size: large;
 }
 
 .confirmaremail {
@@ -36,9 +57,38 @@ hr {
 
 .sobrenome {
     position: relative;
+    left: 130px;
+}
+
+.genero {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+}
+
+.endereco {
+    position: relative;
+    left: 140px;
+}
+
+.numero {
+    position: relative;
+    left: 245px;
+}
+
+.cidade {
+    position: relative;
     left: 125px;
 }
 
+.bairro {
+    position: relative;
+    left: 245px;
+}
+
+.celular {
+    position: relative;
+    left: 70px;
+}
 .genero {
     background-color: rgb(255, 255, 255);
     width: 100px;
