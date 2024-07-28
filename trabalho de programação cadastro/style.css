@@ -32,6 +32,7 @@ hr {
 
 .dadosdecontato {
     background-color: rgb(232, 203, 255);
+    width: 700px;
 }
 
 .dadosdecontatotitulo {
@@ -60,11 +61,6 @@ hr {
     left: 130px;
 }
 
-.genero {
-    background-color: rgb(255, 255, 255);
-    width: 100px;
-}
-
 .endereco {
     position: relative;
     left: 140px;
@@ -89,7 +85,6 @@ hr {
     position: relative;
     left: 70px;
 }
-.genero {
     background-color: rgb(255, 255, 255);
     width: 100px;
 }
